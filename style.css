@@ -111,14 +111,14 @@ body
         {
             .new_7 h2
             {
-                font-size: 30px;
+                font-size: 25px;
             }
         }
         @media screen and (min-width:750px) 
         {
             .new_7 h2
             {
-                font-size: 40px;
+                font-size: 30px;
             }
             .new_7 p
             {
@@ -258,13 +258,13 @@ body
 }
         .new_17
         {
-            font-size: 30px;
+            font-size: 25px;
             font-weight: bold;
             color: #5a8cf6;
         }
         .new_18
         {
-            font-size: 17px;
+            font-size: 15px;
             margin: 5px;
             padding-bottom: 10px;
         }
@@ -303,11 +303,11 @@ body
         {
             .new_17
             {
-                font-size: 45px;
+                font-size: 40px;
             }
             .new_18
             {
-                font-size: 25px;
+                font-size: 20px;
             }
         }
         .new_20
